@@ -28,7 +28,7 @@ public class COMPI_01 {
             hash.add(i);
    
         
-        System.out.println("Iniciando");
+        System.out.println("Iniciando a busca");
         if (hash.contains(-1))
             System.out.println("hash contem");
         else
