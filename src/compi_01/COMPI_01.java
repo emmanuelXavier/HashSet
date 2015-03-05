@@ -26,7 +26,7 @@ public class COMPI_01 {
         int i;
         for (i = 0; i <= 1000000;i++)
             hash.add(i);
-
+   
         
         System.out.println("Iniciando");
         if (hash.contains(-1))
